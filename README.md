@@ -3,7 +3,7 @@
 - Trailer: https://youtu.be/znaJVWQ1Jd8
 - Introduction Text: https://docs.google.com/document/d/1ej4rq16wK53x6Evo23YikgETXm5V4Ynk2QL1oeOXF04/edit?usp=sharing
 - Game: https://kozlowskixy.itch.io/aquadefender
-- Thubnail: https://github.com/zaryar/AquaDefender/blob/main/Logo1.png
+- Thumbnail: https://github.com/zaryar/AquaDefender/blob/main/Logo1.png
 
 ### Basic idea:
 - Spawn on island, pirates attack in waves
